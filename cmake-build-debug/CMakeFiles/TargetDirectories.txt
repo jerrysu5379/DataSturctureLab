@@ -1,0 +1,3 @@
+/Users/jerrysu/CLionProjects/DataSturctureLab/cmake-build-debug/CMakeFiles/DataSturctureLab.dir
+/Users/jerrysu/CLionProjects/DataSturctureLab/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/jerrysu/CLionProjects/DataSturctureLab/cmake-build-debug/CMakeFiles/rebuild_cache.dir
